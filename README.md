@@ -59,7 +59,7 @@ JWT_SECRET="sua_chave_secreta_aqui"
 
 4. Execute as migrations do Prisma:
 ```bash
-npm run prisma migrate dev
+npx prisma migrate dev
 ```
 
 5. Inicie o servidor:
